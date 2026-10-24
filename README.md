@@ -1,4 +1,5 @@
-# TurtleClass
+# TurtleClass（旧版的积分系统）
+# 请注意：本软件于2024.10.24停止维护，全新TC请见TClass仓库
 
 [![Phase 1 Complete](https://img.shields.io/badge/Phase%201-Core-green)](docs/02_Phases/PHASE_1_CORE.md)
 [![Phase 2 Complete](https://img.shields.io/badge/Phase%202-Server-green)](docs/02_Phases/PHASE_2_SERVER.md)
